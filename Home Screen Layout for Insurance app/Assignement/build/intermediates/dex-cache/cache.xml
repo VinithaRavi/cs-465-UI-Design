@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ad2382441e5133754224a4fe1fcce70fd374a74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f7ba0d03bcc24ec4b25d9dffa1f009a6dfeaefd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_409a7ff60886f623e05333bdac36cc094ea44e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d194495df1b68c98548b9cd93ac8781d7132b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1ce9228c935ab1cb82407064118b05bf8256d7b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_b8ad32b3e4d036740668c79b6171e601d2ef0647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b771019074ccc590f763a23b7118d4765bd17a44">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccc9dd09981fffbf47d23362d53498adbb31fe49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2e9efdad0ef45de180936a5b0a9efb05ecefe06d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_44fe26b3331d0deace884efe8a6e83a7591cb687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b10c589571aa32b000ec29bb96401b3192a1ef93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e3d62bd9280d45fa4f0aa3d5d467cdd31778101e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f33b96198e09d62d4e26dbd38b3944354f6d345">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ca68423c0d52f5e68acbd7dc95d21a6cb25289d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_94228256c6a7d8b0ccd65f9b40176bf8d1e084ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_49697504efe05a5e791ba98f587ae6c722d1c29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e40585c45ac7e1a731c1436a26f14484052e8f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9f2c10f5a4898f40d823229e7a61f70d4e9f0ebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Courses\cs 465 UI Design\Assignement\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_81daf13f4be487e2ca209cca6eb8e51754482a56\classes.dex" />
+    </item>
+
+</items>
